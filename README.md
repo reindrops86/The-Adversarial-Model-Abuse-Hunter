@@ -1,6 +1,6 @@
 # The-Adversarial-Model-Abuse-Hunter
 
-#Adversarial Model Abuse Hunter
+#Adversarial Model Abuse Hunter:
 Threat Intel for Model Abuse
 Abuse Investigation Copilot
 Model Threat Investigation Workspace
